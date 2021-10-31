@@ -10,7 +10,7 @@
             <div class="col-lg-10 col-lg-offset-1 text-center">
                 <h4><strong>Sébastien Morneau</strong>
                 </h4>
-                <p>Programmation Web et dévellopement logiciel
+                <p>Développeur logiciel
                     <br>Montréal, Canada
                 </p>
                 <ul class="list-unstyled">
