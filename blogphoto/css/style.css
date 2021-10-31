@@ -1,0 +1,126 @@
+/* 
+
+CSS page for photo blog
+created by Sebastien Morneau
+02/09/2019
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+nav {
+    display: grid;
+    grid-template-columns: 10% 1fr 1fr 10%;
+    min-height: 8vh;
+    color: white;
+    align-items: center;
+}
+
+#logo {
+    grid-column: 2/3;
+    font-size: 24px;
+}
+
+/* Custom Menu Icon */
+.menu {
+    display: inline-block;
+    cursor: pointer;
+    justify-self: end;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+    height: 2px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.bar1 {
+    width: 25px;
+}
+
+.bar2 {
+    width: 35px;
+}
+
+.bar3 {
+    width: 45px;
+}
+
+/* Animation Menu Icon */
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+    width: 35px;
+}
+
+.change .bar2 {
+    opacity: 0;
+}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+    width: 35px;
+}
+
+/* Section in the header */
+header section {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero {
+    height: 60%;
+    width: 100%;
+    position: relative;
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero:after {
+    content: "";
+    background: black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    opacity: 0.3;
+    top: 0;
+}
+
+.headline {
+    position: absolute;
+    color: white;
+    top: 70%;
+    left: 15%;
+    font-size: 100px;
+    transform: translate(-20%, -70%);
+    z-index: 3;
+}
+
+/* header's end */
+
+/* Slider */
+.slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, #897a75, #182033);
+    z-index: -1;
+}

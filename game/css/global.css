@@ -1,0 +1,25 @@
+.gameSelector {
+  text-align: center;
+  margin: auto;
+  cursor: pointer;
+  border-style: solid;
+  border-color: blue;
+  margin-top: 40px;
+}
+
+.gameSelector:hover {
+  color: white;
+  background-color: red;
+  border-color: black;
+}
+
+.side-menu {
+}
+
+.container {
+  margin: auto;
+  overflow: hidden;
+  padding: 40rem 1rem;
+  padding-right: 40px;
+  background-color: grey;
+}
