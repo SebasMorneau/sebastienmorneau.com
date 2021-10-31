@@ -73,131 +73,132 @@
                             <p>2021 - ??</p>
                             <p>Third Bridge, Qc</p>
                         </div>
-                        <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
-                            <div class="service-item">
-                                <h5>Emploi</h5>
-                                <h4>
-                                    <strong>Dévelloppeur Mobile Junior.</strong>
-                                </h4>
-                                <button class="accordion"></button>
-                                <div class="panel">
-                                    <p>Mon premier vrai emploi dans l'industrie. J'y commence comme dévellopeur junior
-                                        sur
-                                        une application Android.
-                                        <strong>J'y utilise Java, Kotlin, Swift mais aussi C++ </strong> et bien
-                                        d'autres.
-                                    </p>
-                                </div>
-                                <hr class="small">
-                                <p>2019 - 2021</p>
-                                <p>Muh Mobile, Qc</p>
+                    </div>
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
+                        <div class="service-item">
+                            <h5>Emploi</h5>
+                            <h4>
+                                <strong>Dévelloppeur Mobile Junior.</strong>
+                            </h4>
+                            <button class="accordion"></button>
+                            <div class="panel">
+                                <p>Mon premier vrai emploi dans l'industrie. J'y commence comme dévellopeur junior
+                                    sur
+                                    une application Android.
+                                    <strong>J'y utilise Java, Kotlin, Swift mais aussi C++ </strong> et bien
+                                    d'autres.
+                                </p>
                             </div>
-                        </div>
-                        <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
-                            <div class="service-item">
-                                <h5>Contractant</h5>
-                                <h4>
-                                    <strong>Dévelloppement Web.</strong>
-                                </h4>
-                                <button class="accordion"></button>
-                                <div class="panel">
-                                    <p>Mon passe-temps actuel, je construis des sites web et des application web depuis
-                                        l’obtention de mon diplôme.
-                                        Je découvre et apprend à jouer avec de nouveau outils. Que ce soit des
-                                        <i>framework</i> Javascript ou des bases de données,
-                                        je passe la majorité de mon temps en dehors du travail sur mes projets.
-                                        Depuis 2020, j'ai eu la chance de travailler avec La Halte des Proches et Numove
-                                        Group comme dévellopeur WordPress.
-                                    </p>
-                                </div>
-                                <hr class="small">
-                                <p>2017 - Aujourd'hui</p>
-                                <p>Montréal, Qc</p>
-                            </div>
-                        </div>
-                        <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
-                            <div class="service-item">
-                                <h5>Emploi</h5>
-                                <h4>
-                                    <strong>Représentant des ventes.</strong>
-                                </h4>
-                                <button class="accordion"></button>
-                                <div class="panel">
-                                    <p>Une longue et enrichissante carrière de 10 ans. <strong>J’ai occupé les postes
-                                            d’agents, responsable d’équipe et
-                                            d’assistant gérant</strong> durant toute ses années.
-                                        Que ce soit de vendre des produits Vidéotron,
-                                        faire office de soutien technique sur place ou bien de faire du service à la
-                                        clientèle,
-                                        ce fût une carrière stimulant.
-                                        Les nouvelles technologies me passionne et le marché du mobile est très
-                                        captivant.
-                                    </p>
-                                </div>
-                                <hr class="small">
-                                <p>2009 - 2019</p>
-                                <p>Videotron, Qc</p>
-                            </div>
-                        </div>
-                        <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
-                            <div class="service-item">
-                                <h5>Éducation</h5>
-                                <h4>
-                                    <strong>DEC Informatique.</strong>
-                                </h4>
-                                <button class="accordion"></button>
-                                <div class="panel">
-                                    <p>De retour aux études après une pause de plusieurs années pour obtenir un diplôme
-                                        en
-                                        informatique.
-                                        C’est un milieu qui me passionne énormément et j’ai eu l’occasion de beaucoup
-                                        apprendre avec les cours du programme.
-                                        J’ai eu l’occasion de toucher à plein de langage de programmation différents.
-                                        <strong>Le programme survole la programmation logiciel et web mais aussi des
-                                            cours
-                                            d’administration de système et de réseautique.</strong>
-                                    </p>
-                                </div>
-                                <hr class="small">
-                                <p>2017</p>
-                                <p>Cégep du Vieux-Montréal, Qc</p>
-                            </div>
-                        </div>
-                        <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
-                            <div class="service-item">
-                                <h5>Éducation</h5>
-                                <h4>
-                                    <strong>DEC Arts et Lettres: Profil Cinéma.</strong>
-                                </h4>
-                                <button class="accordion"></button>
-                                <div class="panel">
-                                    <p>Qui n’aime pas le cinéma, <i>for real</i>?! L’une de mes grandes passions, j’en
-                                        consomme énormément. Je ne suis pas un grand gamer,
-                                        alors mes temps libres sont souvent remplis de films ou de séries. Depuis
-                                        quelques
-                                        années,
-                                        je m’intéresse aussi beaucoup aux créateurs sur YouTube. Cette passion pour
-                                        l’art me
-                                        suit beaucoup,
-                                        j’aime énormément créer, mais aussi laisser mon imagination et mon œil
-                                        artistique
-                                        dans chacun de mes projets.</p>
-                                </div>
-                                <hr class="small">
-                                <p>2010</p>
-                                <p>Cégep Sainte-Hyacinthe, Qc</p>
-                            </div>
+                            <hr class="small">
+                            <p>2019 - 2021</p>
+                            <p>Muh Mobile, Qc</p>
                         </div>
                     </div>
-
-
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
+                        <div class="service-item">
+                            <h5>Contractant</h5>
+                            <h4>
+                                <strong>Dévelloppement Web.</strong>
+                            </h4>
+                            <button class="accordion"></button>
+                            <div class="panel">
+                                <p>Mon passe-temps actuel, je construis des sites web et des application web depuis
+                                    l’obtention de mon diplôme.
+                                    Je découvre et apprend à jouer avec de nouveau outils. Que ce soit des
+                                    <i>framework</i> Javascript ou des bases de données,
+                                    je passe la majorité de mon temps en dehors du travail sur mes projets.
+                                    Depuis 2020, j'ai eu la chance de travailler avec La Halte des Proches et Numove
+                                    Group comme dévellopeur WordPress.
+                                </p>
+                            </div>
+                            <hr class="small">
+                            <p>2017 - Aujourd'hui</p>
+                            <p>Montréal, Qc</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
+                        <div class="service-item">
+                            <h5>Emploi</h5>
+                            <h4>
+                                <strong>Représentant des ventes.</strong>
+                            </h4>
+                            <button class="accordion"></button>
+                            <div class="panel">
+                                <p>Une longue et enrichissante carrière de 10 ans. <strong>J’ai occupé les postes
+                                        d’agents, responsable d’équipe et
+                                        d’assistant gérant</strong> durant toute ses années.
+                                    Que ce soit de vendre des produits Vidéotron,
+                                    faire office de soutien technique sur place ou bien de faire du service à la
+                                    clientèle,
+                                    ce fût une carrière stimulant.
+                                    Les nouvelles technologies me passionne et le marché du mobile est très
+                                    captivant.
+                                </p>
+                            </div>
+                            <hr class="small">
+                            <p>2009 - 2019</p>
+                            <p>Videotron, Qc</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
+                        <div class="service-item">
+                            <h5>Éducation</h5>
+                            <h4>
+                                <strong>DEC Informatique.</strong>
+                            </h4>
+                            <button class="accordion"></button>
+                            <div class="panel">
+                                <p>De retour aux études après une pause de plusieurs années pour obtenir un diplôme
+                                    en
+                                    informatique.
+                                    C’est un milieu qui me passionne énormément et j’ai eu l’occasion de beaucoup
+                                    apprendre avec les cours du programme.
+                                    J’ai eu l’occasion de toucher à plein de langage de programmation différents.
+                                    <strong>Le programme survole la programmation logiciel et web mais aussi des
+                                        cours
+                                        d’administration de système et de réseautique.</strong>
+                                </p>
+                            </div>
+                            <hr class="small">
+                            <p>2017</p>
+                            <p>Cégep du Vieux-Montréal, Qc</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-once="true" data-aos-delay="20">
+                        <div class="service-item">
+                            <h5>Éducation</h5>
+                            <h4>
+                                <strong>DEC Arts et Lettres: Profil Cinéma.</strong>
+                            </h4>
+                            <button class="accordion"></button>
+                            <div class="panel">
+                                <p>Qui n’aime pas le cinéma, <i>for real</i>?! L’une de mes grandes passions, j’en
+                                    consomme énormément. Je ne suis pas un grand gamer,
+                                    alors mes temps libres sont souvent remplis de films ou de séries. Depuis
+                                    quelques
+                                    années,
+                                    je m’intéresse aussi beaucoup aux créateurs sur YouTube. Cette passion pour
+                                    l’art me
+                                    suit beaucoup,
+                                    j’aime énormément créer, mais aussi laisser mon imagination et mon œil
+                                    artistique
+                                    dans chacun de mes projets.</p>
+                            </div>
+                            <hr class="small">
+                            <p>2010</p>
+                            <p>Cégep Sainte-Hyacinthe, Qc</p>
+                        </div>
+                    </div>
                 </div>
-                <!-- /.row (nested) -->
+
 
             </div>
-            <!-- /.row -->
+            <!-- /.row (nested) -->
+
         </div>
-        <!-- /.container -->
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
 </section>
 
 <!-- Portfolio -->
